@@ -1,6 +1,4 @@
 let arr =[12,34,24,10,1, 35];
-let sortr = arr.sort();
-console.log('sortr', sortr)
 let le = arr.length;
 
 
